@@ -23,28 +23,27 @@ void FillArrayOnSpiral(int[,] array)
         array[i, array.GetLength(1)-1] = f + 1;
             f++;
     }
-    for (int j = 2; j >-1; j--)
+    for (int j = 2; j >=array.GetLength(1)-4; j--)
     {
-        array[3, j] = f + 1;
+        array[array.GetLength(0)-1, j] = f + 1;
             f++;
     }
-    for (int i = 2; i >0; i--)
+    for (int i = 2; i >array.GetLength(0)-4; i--)
     {
-        array[i, 0] = f + 1;
+        array[i, array.GetLength(1)-4] = f + 1;
             f++;
     }
-    for (int j = 1; j <3; j++)
+    for (int j = 1; j <array.GetLength(1)-1; j++)
     {
-        array[1, j] = f + 1;
+        array[array.GetLength(0)-3, j] = f + 1;
             f++;
     }
-    for (int j = 2; j >0; j--)
+    for (int j = 2; j >array.GetLength(0)-4; j--)
     {
-        array[2, j] = f + 1;
+        array[array.GetLength(0)-2, j] = f + 1;
             f++;
     }
 }
-
 void PrintArrayToNumbers(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
