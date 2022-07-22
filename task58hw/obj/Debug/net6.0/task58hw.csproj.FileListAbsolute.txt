@@ -1,0 +1,15 @@
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.csproj.AssemblyReference.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.AssemblyInfoInputs.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.AssemblyInfo.cs
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.csproj.CoreCompileInputs.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/bin/Debug/net6.0/task58hw
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/bin/Debug/net6.0/task58hw.deps.json
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/bin/Debug/net6.0/task58hw.runtimeconfig.json
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/bin/Debug/net6.0/task58hw.dll
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/bin/Debug/net6.0/task58hw.pdb
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.dll
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/refint/task58hw.dll
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.pdb
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/task58hw.genruntimeconfig.cache
+/Users/olegmonogarov/GeekBrains_/с#/seminar8hw/task58hw/obj/Debug/net6.0/ref/task58hw.dll
